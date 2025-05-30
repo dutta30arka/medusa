@@ -1,7 +1,7 @@
 
 ---
 
-## 🚀 Deploying Medusa Backend on AWS ECS with Terraform, RDS & GitHub Actions
+##  Deploying Medusa Backend on AWS ECS with Terraform, RDS & GitHub Actions
 
 ### 👨‍💻 Overview
 
